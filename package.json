@@ -1,0 +1,37 @@
+{
+  "name": "MS_Instagram-stories_Pegasus_Tep_Online_Full-time_2021_7",
+  "version": "1.0.0",
+  "description": "# Learning competencies:",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/MS_Instagram-stories_Pegasus_Tep_Online_Full-time_2021_7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/MS_Instagram-stories_Pegasus_Tep_Online_Full-time_2021_7/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/MS_Instagram-stories_Pegasus_Tep_Online_Full-time_2021_7#readme",
+  "dependencies": {
+    "aws-sdk": "^2.892.0",
+    "bcrypt": "^5.0.1",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.10.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.5",
+    "multer": "^1.4.2",
+    "multer-s3": "^2.9.0",
+    "nodemon": "^2.0.7",
+    "path": "^0.12.7",
+    "shortid": "^2.2.16"
+  }
+}
